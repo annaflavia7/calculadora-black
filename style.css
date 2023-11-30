@@ -6,7 +6,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
-  background:#000
+  background:rgb(56, 0, 56)
 }
 
 input{
@@ -19,7 +19,7 @@ input{
 }
 
 .maincolor{
-  background-color: #000;
+  background-color: rgb(143, 0, 83);
 }
 
 .num{
@@ -52,22 +52,22 @@ input{
 }
 
 .blue{
-  background-color:#0cd0cd;
+  background-color: #64004b;
 }
 
 .pin{
-  background-color:#cf1596;
+  background-color: #64004b;
 }
 
 .gre{
-  background-color:#aad800;
+  background-color: #64004b;
 }
 
 .pur{
-  background-color:#8c52f0
+  background-color:#64004b
 }
 
 .ora{
-  background-color:#fcb707;
+  background-color: #64004b;
 }
 
